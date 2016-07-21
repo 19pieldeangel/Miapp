@@ -3,6 +3,12 @@
  */
 public class androidtest {
 
+    public int contar{}
+
+        return 2;
+
+    }
+
 
 
 }
